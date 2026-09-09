@@ -1,0 +1,10 @@
+genesis-file="C:/Kamlesh/besu-lab/session5-private-network/qbft-network-files/genesis.json"
+data-path="C:/Kamlesh/besu-lab/session5-private-network/nodes/node3/data"
+p2p-host="127.0.0.1"
+p2p-port=30307
+rpc-http-enabled=true
+rpc-http-host="127.0.0.1"
+rpc-http-port=8548
+rpc-http-api=["ETH","NET","WEB3"]
+static-nodes-file="C:/Kamlesh/besu-lab/session5-private-network/nodes/node3/static-nodes.json"
+sync-min-peers=1
