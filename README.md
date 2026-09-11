@@ -41,9 +41,11 @@ The repository contains reproducible configurations, lab artifacts and concise l
 | Session 3 | Besu Runtime Forensics | ✅ Complete |
 | Session 4 | Besu Node & JSON-RPC | ✅ Complete |
 | [Session 5](sessions/session-05/README.md) | QBFT Private Network & First Transaction | ✅ Complete |
+| [Session 6](sessions/session-06/README.md) | Multi-Node Besu Architecture: Topology, Failure & Consensus | ✅ Complete |
 
 > **Note:** Detailed READMEs for Sessions 1–4 will be added as those sessions are revisited and documented.
 
+> **Session 6:** Established resilient multi-node topology, QBFT failure tolerance, RPC/validator separation, signing isolation and enterprise failure-domain reasoning.
 ---
 
 # Session 1 — Environment & Architecture Foundations
@@ -144,7 +146,7 @@ The complete Session 5 learning notes, rebuild procedure, commands, expected out
 
 # Current Architecture Milestone
 
-At the end of Session 5, the practical lab architecture is:
+At the end of Session 6, the practical lab architecture is:
 
 ```text
                      Enterprise Application
