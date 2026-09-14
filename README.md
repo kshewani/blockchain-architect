@@ -42,7 +42,7 @@ The repository contains reproducible configurations, lab artifacts and concise l
 | Session 4 | Besu Node & JSON-RPC | ✅ Complete |
 | [Session 5](sessions/session-05/README.md) | QBFT Private Network & First Transaction | ✅ Complete |
 | [Session 6](sessions/session-06/README.md) | Multi-Node Besu Architecture: Topology, Failure & Consensus | ✅ Complete |
-| [Session 6](sessions/session-7/README.md) | Consensus Fundamentals: PoA, IBFT & QBFT | ✅ Complete |
+| [Session 7](sessions/session-7/README.md) | Consensus Fundamentals: PoA, IBFT & QBFT | ✅ Complete |
 
 > **Note:** Detailed READMEs for Sessions 1–4 will be added as those sessions are revisited and documented.
 
