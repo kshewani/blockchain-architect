@@ -44,6 +44,7 @@ The repository contains reproducible configurations, lab artifacts and concise l
 | [Session 6](sessions/session-06/README.md) | Multi-Node Besu Architecture: Topology, Failure & Consensus | ✅ Complete |
 | [Session 7](sessions/session-07/README.md) | Consensus Fundamentals: PoA, IBFT & QBFT | ✅ Complete |
 | [Session 8](sessions/session-08/README.md) | Consensus QBFT Validator Operations: Recovery, Isolation & Failure Runbooks | ✅ Complete |
+| [Session 9](sessions/session-09/README.md) | Besu P2P Networking, Discovery & Peers | ✅ Complete |
 
 > **Note:** Detailed READMEs for Sessions 1–4 will be added as those sessions are revisited and documented.
 
