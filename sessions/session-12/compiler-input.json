@@ -1,0 +1,19 @@
+{
+  "language": "Solidity",
+  "sources": {
+    "PaymentLedger.sol": {
+      "content": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.37;\n\ncontract PaymentLedger {\n    uint256 public total;\n\n    function record(uint256 amount) public {\n        total = total + amount;\n    }\n}"
+    }
+  },
+  "settings": {
+    "evmVersion": "berlin",
+    "outputSelection": {
+      "*": {
+        "*": [
+          "abi",
+          "evm.bytecode.object"
+        ]
+      }
+    }
+  }
+}

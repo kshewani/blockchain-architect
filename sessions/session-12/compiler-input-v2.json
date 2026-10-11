@@ -1,0 +1,19 @@
+﻿{
+  "language": "Solidity",
+  "sources": {
+    "PaymentLedgerV2.sol": {
+      "content": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.37;\n\ncontract PaymentLedgerV2 {\n    uint256 public total;\n\n    event PaymentRecorded(\n        bytes32 indexed paymentId,\n        address indexed sender,\n        uint256 amount,\n        uint256 timestamp\n    );\n\n    function record(bytes32 paymentId, uint256 amount) public {\n        total = total + amount;\n\n        emit PaymentRecorded(\n            paymentId,\n            msg.sender,\n            amount,\n            block.timestamp\n        );\n    }\n}"
+    }
+  },
+  "settings": {
+    "evmVersion": "berlin",
+    "outputSelection": {
+      "*": {
+        "*": [
+          "abi",
+          "evm.bytecode.object"
+        ]
+      }
+    }
+  }
+}
