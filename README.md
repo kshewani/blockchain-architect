@@ -47,6 +47,7 @@ The repository contains reproducible configurations, lab artifacts and concise l
 | [Session 9](sessions/session-09/README.md) | Besu P2P Networking, Discovery & Peers | ✅ Complete |
 | [Session 10](sessions/session-10/README.md) | Troubleshoot Connectivity, Ports & Node Discovery | ✅ Complete |
 | [Session 11](sessions/session-11/README.md) | JSON-RPC, WebSocket & Transaction Lifecycle | ✅ Complete |
+| [Session 12](sessions/session-12/README.md) | Solidity & EVM Fundamentals for Besu | ✅ Complete |
 
 > **Note:** Detailed READMEs for Sessions 1–4 will be added as those sessions are revisited and documented.
 
