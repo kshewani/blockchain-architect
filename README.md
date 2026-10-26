@@ -48,6 +48,7 @@ The repository contains reproducible configurations, lab artifacts and concise l
 | [Session 10](sessions/session-10/README.md) | Troubleshoot Connectivity, Ports & Node Discovery | ✅ Complete |
 | [Session 11](sessions/session-11/README.md) | JSON-RPC, WebSocket & Transaction Lifecycle | ✅ Complete |
 | [Session 12](sessions/session-12/README.md) | Solidity & EVM Fundamentals for Besu | ✅ Complete |
+| [Session 13](sessions/session-13/README.md) | Build a Tokenized Asset Smart Contract | ✅ Complete |
 
 > **Note:** Detailed READMEs for Sessions 1–4 will be added as those sessions are revisited and documented.
 
